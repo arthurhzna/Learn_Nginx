@@ -9,7 +9,7 @@ This repository contains notes, configuration snippets, and example files for se
 
 Table of contents
 - [Configuration](#configuration)
-- [installation](#installation)
+- [installation](#installation) 
 - [Performace](#performace)
 - [Security](#security)
 
@@ -82,3 +82,4 @@ If you have improvements or additional snippets, please open a PR with a short d
 
 ## License
 This repository is provided as-is for educational purposes. No explicit license included.
+
